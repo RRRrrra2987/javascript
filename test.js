@@ -5,8 +5,9 @@ function button1()
 i=i+1;
 alert(i+"回クリックしました！");  
 }
-function PC()
-{var PCST=navigator.platform+"\n"
-         + navigator.userAgent+"\n";
+function pcst()
+{
+var PCST=navigator.platform+"\n"
+        + navigator.userAgent+"\n";
 alert(PCST);
 }
