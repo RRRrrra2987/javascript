@@ -1,0 +1,10 @@
+@charset "utf-8";
+#menu{
+}
+h1{
+text-align: center;		/*テキストを左に*/
+	background: #568fcc;		/*背景を青にする*/
+	color: #ffffff;			/*文字を白くする*/
+	border-radius: 7px;		/*後は調べろ★*/
+	text-shadow: 1px 1px 3px #ffffff;
+}
