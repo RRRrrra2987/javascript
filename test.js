@@ -1,6 +1,7 @@
-ver i=0;
+var i=0
 alert("(ﾟ∀ﾟ)ｱﾋｬ");
-while(i<20){
-  alert("(ﾟ∀ﾟ)ｱﾋｬ");
-  i=i+1;
+function button()
+{
+i=i+1;
+alert(i,"回クリックしました！");  
 }
